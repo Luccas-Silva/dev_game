@@ -11,7 +11,3 @@
 ## Tecnologias usadas
 - `Java`
 - `Spring Boot`
-
-## Servidor de Desenvolvimento
-
-## Design do Site
